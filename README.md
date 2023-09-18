@@ -32,7 +32,7 @@ This repository is a part of CSI-248 at Renton Technical College.
 18. Education
 19. Here is an example. You may choose any information to list.
 
-![image](https://github.com/EmeryCSI/CSI248F23_IndependentActivity1/assets/102991550/cb306fe5-5f12-4dcb-8d1a-150679af68bc = 800x600)
+![image](https://github.com/EmeryCSI/CSI248F23_IndependentActivity1/assets/102991550/cb306fe5-5f12-4dcb-8d1a-150679af68bc)
 
 19. When it is completed:
 20. Type `git add .` to stage all updated files.
