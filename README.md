@@ -8,7 +8,7 @@
 
 This repository is a part of CSI-248 at Renton Technical College.
 
-## Independent Activity 1
+## Independent Activity 1 - Components and props
 
 1. Clone the repository to your local machine. (Do not use OneDrive for assignments in this course!)
 2. Make note of the folder where you cloned the repository.
@@ -22,7 +22,7 @@ This repository is a part of CSI-248 at Renton Technical College.
 9. Select JavaScript as the variant
 
 10. Create a resume using React components.
-11. Each section of the resume should be a component with the data passed to it from App.Jsx
+11. Each section of the resume should be a component with the data passed to it from App.Jsx via props
 12. The resume will have the following sections:
 13. Heading with Name and Title
 14. Contact Information
@@ -30,6 +30,7 @@ This repository is a part of CSI-248 at Renton Technical College.
 16. Skills
 17. Experience
 18. Education
+19. Here is an example. You may choose any information to list.
 
 ![image](https://github.com/EmeryCSI/CSI248F23_IndependentActivity1/assets/102991550/cb306fe5-5f12-4dcb-8d1a-150679af68bc)
 
